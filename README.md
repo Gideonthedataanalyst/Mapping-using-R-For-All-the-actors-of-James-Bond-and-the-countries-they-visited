@@ -1,1 +1,9 @@
-# Mapping-using-R-For-All-the-actors-of-James-Bond-and-the-countries-they-visited
+# Mapping-using-R-For-All-the-actors-of-James-Bond-and-the-countries-they-visited![Rplot fpr world map](https://github.com/user-attachments/assets/ca13499e-7462-4e75-b78d-c3ef54e822e5)
+![Rplot moll world projection](https://github.com/user-attachments/assets/12389d3b-461c-4834-8fa5-04a65d4d7604)
+![final map](https://github.com/user-attachments/assets/f221d7cf-746c-417c-829f-a2f5a4ab3421)
+![DANIEL CRAIG](https://github.com/user-attachments/assets/0e7da0df-5dd1-4d39-aa1d-aa4d365bcc2a)
+![Countries visited in Casino Royale](https://github.com/user-attachments/assets/15a46cfe-e988-4571-9ea3-ab23c6f2b0cc)
+![Casino Royale](https://github.com/user-attachments/assets/4ab1c400-19c2-4601-aab6-8b64c81510fb)
+![Countries visited by James bond](https://github.com/user-attachments/assets/050acb3d-6440-4dfb-92df-3bea4852f9b0)
+![All the actors of James Bond and the countries they visited](https://github.com/user-attachments/assets/19c9d577-99ea-479e-84cd-f36af2599977)
+![Countries by region](https://github.com/user-attachments/assets/c87db9cd-6967-404c-98b1-d9e2d0ce721f)
